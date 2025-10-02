@@ -12,8 +12,11 @@ const Home = () => {
         consectetur incidunt modi cum dicta quaerat! Sint reprehenderit ad
         suscipit enim nam!
       </p>
-      <Button>Click me</Button>
+      <br />
+      <Button size="lg">Click Me</Button>
+      
     </div>
+    
   );
 };
 

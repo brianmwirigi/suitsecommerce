@@ -3,4 +3,5 @@
 /*raplaces keyword theme in css */
 @theme{
     --font-poppins: 'Poppins', sans-serif;
+    --color-shop-light-pink: #fcf0e4;
 }

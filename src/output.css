@@ -1,0 +1,5 @@
+/*! tailwindcss v4.1.14 | MIT License | https://tailwindcss.com */
+.antialiased {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

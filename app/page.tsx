@@ -1,3 +1,4 @@
+import { Button } from "@/components/ui/button";
 import React from "react";
 
 //arrow function
@@ -11,6 +12,7 @@ const Home = () => {
         consectetur incidunt modi cum dicta quaerat! Sint reprehenderit ad
         suscipit enim nam!
       </p>
+      <Button>Click me</Button>
     </div>
   );
 };

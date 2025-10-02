@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+/*raplaces keyword theme in css */
+@theme{
+    --font-poppins: 'Poppins', sans-serif;
+}

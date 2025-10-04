@@ -1,9 +1,8 @@
 import React from 'react'
 
 function header() {
-  return (
+  return 
    <header> Header </header>
-  )
 }
 
-export default header
+export default header;

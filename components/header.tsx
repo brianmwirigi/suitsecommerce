@@ -6,5 +6,3 @@ function header() {
 }
 
 export default header;
-
-;lko
